@@ -1,0 +1,13 @@
+name: CovidDashboard
+title: CovidDashboard
+username:
+account: npeverett
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5295218
+bundleId: 5347843
+url: https://npeverett.shinyapps.io/CovidDashboard/
+when: 1639010769.69238
+lastSyncTime: 1639010769.69238
+asMultiple: FALSE
+asStatic: FALSE
